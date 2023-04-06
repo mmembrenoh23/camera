@@ -26,7 +26,12 @@ export default defineConfig({
                 src: 'assets/images/icon-128x128.png',
                 sizes: '128x128',
                 type: 'image/png'
-                }
+                },
+                {
+                  src: 'assets/images/icon-144x144.png',
+                  sizes: '144x144',
+                  type: 'image/png'
+                  }
             ]
         }
     })
